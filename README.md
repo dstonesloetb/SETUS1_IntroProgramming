@@ -12,6 +12,8 @@
 
 +[Constants](Constants.java)
 
++[User Input Example](UserInput.java)
+
 +[Escaping Literals](EscapingLiterals.java)
 
 
@@ -36,7 +38,9 @@
 +[Operator Precedence](SettingPrecedence.java)
 
 
+## Other Examples
 
++[String Comparison](StringComparison.java)
 
-
++[Scanner Class for User Input](ScannerClassUerInput.java)
 
