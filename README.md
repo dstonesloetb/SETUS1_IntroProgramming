@@ -1,3 +1,3 @@
 # SETUS1_IntroProgramming
 
-[Contribution guidelines for this project](Addition.java)
++[Addition Example](Addition.java)
