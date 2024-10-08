@@ -10,10 +10,33 @@
 
 +[Different Data Types](DataTypes.java)
 
++[Constants](Constants.java)
+
++[Escaping Literals](EscapingLiterals.java)
+
+
+## Operator Examples
+
 +[Addition Example with User Input from the keyboard](Addition.java)
+
++[Pay Example](Pay.java)
 
 +[Assignment](Assignment.java)
 
 +[Relational Operators](Comparison.java)
 
-+[Constants](Constants.java)
++[Boolean Logic](AssessingLogic.java)
+
++[Cinema Logic Example](CinemaLogic.java)
+
++[House Alarm Logic Example](HouseAlarm.java)
+
++[Ternary Operator Example](TernaryOperator.java)
+
++[Operator Precedence](SettingPrecedence.java)
+
+
+
+
+
+
