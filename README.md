@@ -33,14 +33,14 @@
 
 +[House Alarm Logic Example](HouseAlarm.java)
 
-+[Ternary Operator Example](TernaryOperator.java)
-
 +[Operator Precedence](SettingPrecedence.java)
 
 
 ## Other Examples
 
 +[String Comparison](StringComparison.java)
+
++[Ternary Operator Example](TernaryOperator.java)
 
 +[Scanner Class for User Input](ScannerClassUerInput.java)
 
