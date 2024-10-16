@@ -44,3 +44,5 @@
 
 +[Scanner Class for User Input](ScannerClassUerInput.java)
 
++[Data Type Casting Example](DataTypeCasting.java)
+
