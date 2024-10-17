@@ -46,6 +46,6 @@
 
 +[Data Type Casting Example](DataTypeCasting.java)
 
-+[Table Formatting Example](TableData.java)
++[Table Formatting Example](TableExample.java)
 
 
