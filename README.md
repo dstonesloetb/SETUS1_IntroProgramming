@@ -35,6 +35,12 @@
 
 +[Operator Precedence](SettingPrecedence.java)
 
+## Lab Examples
+
++[Temperature Convertor](TemperatureConvertor.java)
+
++[Tax Evaluator](TaxEvaluator.java)
+
 
 ## Other Examples
 
