@@ -37,7 +37,7 @@
 
 ## Lab Examples
 
-+[Temperature Convertor](TemperatureConvertor.java)
++[Temperature Convertor](TemperatureConverter.java)
 
 +[Tax Evaluator](TaxEvaluator.java)
 
