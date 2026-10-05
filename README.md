@@ -35,22 +35,33 @@
 
 +[Operator Precedence](SettingPrecedence.java)
 
-## Lab Examples
+## Lab Examples  & Class Exercises
 
 +[Temperature Convertor](TemperatureConverter.java)
 
 +[Tax Evaluator](TaxEvaluator.java)
+
++[Amusement Park Guard](AmusementParkGuard.java)
+
++[Dragon Battle Simulator](DragonBattleSimulator.java)
+
 
 
 ## Other Examples
 
 +[String Comparison](StringComparison.java)
 
++[Conditional Operator Example](ConditionalOperator.java)
+
 +[Ternary Operator Example](TernaryOperator.java)
 
 +[Scanner Class for User Input](ScannerClassUerInput.java)
 
++[Narrowing Casting Example](WizardPotion.java)
+
 +[Data Type Casting Example](DataTypeCasting.java)
+
++[Fun Receipt](FunReceipt.java)
 
 +[Table Formatting Example](TableExample.java)
 
